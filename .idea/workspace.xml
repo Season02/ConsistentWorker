@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c178b9a6-448a-43f9-92fd-c53be6a4fa18" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nMG7kYIhAyHR6swoAXQgOUqukb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.22566372" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\TheSecondary\support\宜昌03\ConsistentWorker\src\main\java" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c178b9a6-448a-43f9-92fd-c53be6a4fa18" name="Default Changelist" comment="" />
+      <created>1611192380750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611192380750</updated>
+      <workItem from="1611192384311" duration="1339000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="230" y="4" key="#Project_Structure" timestamp="1611192846145">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="230" y="4" key="#Project_Structure/0.0.1280.680/-1080.-486.720.1240@0.0.1280.680" timestamp="1611192846145" />
+    <state x="92" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611192813442">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="92" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680/-1080.-486.720.1240@0.0.1280.680" timestamp="1611192813442" />
+    <state x="418" y="108" key="FileChooserDialogImpl" timestamp="1611192414314">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="418" y="108" key="FileChooserDialogImpl/0.0.1280.680/-1080.-486.720.1240@0.0.1280.680" timestamp="1611192414314" />
+    <state x="168" y="0" key="Maven.ArtifactSearchDialog" timestamp="1611192548784">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="168" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680/-1080.-486.720.1240@0.0.1280.680" timestamp="1611192548784" />
+  </component>
+</project>
